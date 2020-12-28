@@ -1,0 +1,2 @@
+DELETE http://localhost:4000/app/messages/5fea0dee89be88a0c166b5cb
+Content-Type: application/json
