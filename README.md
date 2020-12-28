@@ -6,6 +6,8 @@
 
 🧬 Users can view all messages stored in the database
 
+Message Board has been deployed here: https://message-board.vercel.app/
+
 Frontend
 React.js
 
